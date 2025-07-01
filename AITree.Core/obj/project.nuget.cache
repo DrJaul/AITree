@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmiIu9ykyTWYjRXXqZ0uyG1j0bSXWyI1E13TrKNI28m6cY0gRkT0AxgqAHHvbJp/s5I2bZUyP7A4vQwrreShbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\AITree\\AITree.Core\\AITree.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library.ref\\2.1.0\\netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
