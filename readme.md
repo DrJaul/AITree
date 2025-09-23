@@ -1,7 +1,7 @@
 # AITree
 
 ## Overview
-This project is a riff on the classic minimax-style AI challenge of growing a tree on a 2D grid, now scaled up into a fully three-dimensional space. By expanding the search and growth logic into 3D, the simulation explores how strategic decision-making adapts when an additional axis introduces more opportunities and constraints.
+This project is a riff on the classic min-max AI challenge you were probably given in CompSci 101: Simulating the lifecycle of a tree in a 2D grid. This project scales that up into the 3D, and lays the groundwork for extension by a variety of tree growth engines.  
 
 ## Relationship to the Display Project
 AITree serves as the data and behavior counterpart to the Unity-based [AITreeDisplay](https://github.com/DrJaul/AITreeDisplay) project. The two repositories are designed to be used together, with this project providing the tree state and growth mechanics that the display project visualizes in real time.
